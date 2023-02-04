@@ -1,0 +1,4 @@
+#ignore all .iml .xml .html files
+*.iml
+*.xml
+*.html
